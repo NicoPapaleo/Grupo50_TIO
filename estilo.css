@@ -1,14 +1,20 @@
 body {
-    background-image: linear-gradient(to top right, rgb(255, 251, 32),rgb(231, 19, 19));
+    background-image: linear-gradient(to top right, rgb(99, 136, 136),rgb(72, 178, 182));
     background-attachment: fixed;
 }
 
 .TituloP {
     text-align: center;
     font-size: 48px;
-    background-image: linear-gradient(to top left, rgb(214, 165, 32),rgb(136, 230, 15));
+    background-image: linear-gradient(to top left, rgb(209, 43, 43),rgb(204, 68, 68));
     border-radius: 5px;
     padding: 16px;
     font-family: 'Beau Rivage', cursive;
 }
-
+.subtitulo {
+    text-align: center;
+    background-color: #d36161;
+    border-radius: 2px;
+    width: 500px;
+    color: black;
+    
