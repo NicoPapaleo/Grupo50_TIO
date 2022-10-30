@@ -3,3 +3,32 @@ img{
     height: 50%;
     width: 50%;
 }
+.TituloP {
+    text-align: center;
+    font-size: 48px;
+    background-image: linear-gradient(to top left, rgb(209, 43, 43),rgb(204, 68, 68));
+    border-radius: 5px;
+    padding: 16px;
+    font-family: 'Beau Rivage', cursive;
+}
+.item {
+    list-style: none;
+    margin: 0px 10px;
+    color: white;
+    text-transform: uppercase;
+    padding: 15px;
+    font-size: 20px;
+}
+.menu {
+    width: 100%;
+    display: flex;
+    background-color: black;
+    color: white;
+}
+.navigation {
+    display: flex;
+    background: black;
+    padding-left: 0;
+    height: 30%;
+    color: white;
+}
