@@ -1,2 +1,0 @@
-1_ Modifique pagina index.html agregue titulo y subtitulos.
-2_ Modifique CCSS de la pagina.
